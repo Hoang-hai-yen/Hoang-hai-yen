@@ -40,12 +40,6 @@
 
 </div>
 
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Hoang-hai-yen&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
 ## 📬 Contact
 
 <div align="center">
