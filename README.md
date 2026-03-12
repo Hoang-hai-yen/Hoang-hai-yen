@@ -48,13 +48,3 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hoang-hai-yen)
 
 </div>
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2d7dd2,100:1a3a5c&height=100&section=footer" />
-
-*"Good game design is invisible — players just feel it."*
-
-</div>
